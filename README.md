@@ -1,26 +1,11 @@
-# 👋 Hi, I'm a Developer
+# 👋 Developer | Cybersecurity & AI
 
-I'm learning and building projects in software development, cybersecurity, and AI.
+Building practical technology through code, experimentation, and innovation.
 
-## 🚀 Current Project: Cyber Threat Map
+🌐 **Current Project:** [Cyber Threat Map](https://dellongrant97-dev.github.io/Cyber-Threat-Map/)
 
-Cyber Threat Map is an experimental cybersecurity intelligence dashboard featuring an interactive 2D map and optional 3D globe. It brings together public threat indicators, approximate geolocation, selected public information feeds, vulnerability intelligence, indicator lookup, activity trends, and source-health information.
+🔐 Exploring cybersecurity, threat intelligence, and network visualization.
 
-🔗 **Live demo:** [Cyber Threat Map](https://dellongrant97-dev.github.io/Cyber-Threat-Map/)
+🤖 Working on **PrivAI** and other technology projects.
 
-🆕 **Latest implementation:** [PR #11](https://github.com/dellongrant97-dev/Cyber-Threat-Map/pull/11) — merged and deployed.
-
-💻 **Source code:** [Cyber-Threat-Map](https://github.com/dellongrant97-dev/Cyber-Threat-Map)
-
-## 🛠️ What I'm Exploring
-
-- Cybersecurity data visualization
-- Interactive 2D maps and 3D globes
-- Public threat intelligence and vulnerability data
-- Web development and application security
-
-## 📌 Other Projects
-
-I'm also exploring AI and software development through projects such as [PrivAI](https://github.com/dellongrant97-dev/Ai-website-mascot-generator).
-
-*Note: Public threat indicators and approximate IP locations are informational. They do not independently confirm an active attack or identify an attacker.*
+🚀 Learning, building, and improving one project at a time.
