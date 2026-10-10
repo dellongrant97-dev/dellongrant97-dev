@@ -7,7 +7,9 @@ I'm learning and building projects in software development, cybersecurity, and A
 Cyber Threat Map is an experimental cybersecurity intelligence dashboard featuring an interactive 2D map and optional 3D globe. It brings together public threat indicators, approximate geolocation, selected public information feeds, vulnerability intelligence, indicator lookup, activity trends, and source-health information.
 
 🔗 **Live demo:** [Cyber Threat Map](https://dellongrant97-dev.github.io/Cyber-Threat-Map/)
-🆕 **Latest project updates:** [Review the current pull request](https://github.com/dellongrant97-dev/Cyber-Threat-Map/pull/11) — these changes are awaiting merge and are not yet reflected in the live demo.
+
+🆕 **Latest implementation:** [PR #11](https://github.com/dellongrant97-dev/Cyber-Threat-Map/pull/11) — merged and deployed.
+
 💻 **Source code:** [Cyber-Threat-Map](https://github.com/dellongrant97-dev/Cyber-Threat-Map)
 
 ## 🛠️ What I'm Exploring
